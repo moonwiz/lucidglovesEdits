@@ -1,0 +1,149 @@
+{
+  "uuid": "ec9f62b9d131dab3957c6db57621911d",
+  "path": "Offline/LucidVRSensorPCB%20Side",
+  "name": "LucidVRSensorPCB Side",
+  "content": "",
+  "created_at": "2023-01-03 00:58:47",
+  "updated_at": "2023-01-03 02:41:01",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "1f731c796540d0ca30968d65c817185c",
+      "title": "LucidVRSensorPCB",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "8fc31c42f7eb43de9aac992ac74c0b3f": 9,
+        "7423dcfe84d34040888ddf01af27981d": 5
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "0.6MM",
+          9,
+          "HOLEHOLE",
+          "H1,H2,H3,H4,H5,H6,H7,H8,H9",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "1a05ef0c01af4a9d884f434a6353110b",
+            "uuid": "8fc31c42f7eb43de9aac992ac74c0b3f"
+          }
+        ],
+        [
+          "1mm VCC",
+          1,
+          "THROUGH-HOLE-1MM",
+          "H10",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "undefined",
+            "BOM_Supplier": "",
+            "puuid": "f463792f6cfb40af85192bf7acad186f",
+            "uuid": "7423dcfe84d34040888ddf01af27981d"
+          }
+        ],
+        [
+          "1mm GND",
+          1,
+          "THROUGH-HOLE-1MM",
+          "H11",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "undefined",
+            "BOM_Supplier": "",
+            "puuid": "f463792f6cfb40af85192bf7acad186f",
+            "uuid": "7423dcfe84d34040888ddf01af27981d"
+          }
+        ],
+        [
+          "1mm S1",
+          1,
+          "THROUGH-HOLE-1MM",
+          "H12",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "undefined",
+            "BOM_Supplier": "",
+            "puuid": "f463792f6cfb40af85192bf7acad186f",
+            "uuid": "7423dcfe84d34040888ddf01af27981d"
+          }
+        ],
+        [
+          "1mm F1",
+          1,
+          "THROUGH-HOLE-1MM",
+          "H13",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "undefined",
+            "BOM_Supplier": "",
+            "puuid": "f463792f6cfb40af85192bf7acad186f",
+            "uuid": "7423dcfe84d34040888ddf01af27981d"
+          }
+        ],
+        [
+          "1mm F2",
+          1,
+          "THROUGH-HOLE-1MM",
+          "H14",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "undefined",
+            "BOM_Supplier": "",
+            "puuid": "f463792f6cfb40af85192bf7acad186f",
+            "uuid": "7423dcfe84d34040888ddf01af27981d"
+          }
+        ]
+      ],
+      "updateTime": 1672704585,
+      "createTime": 1672129496,
+      "histories": [],
+      "created_at": "2022-12-27 09:24:56",
+      "updated_at": "2023-01-03 01:09:45"
+    },
+    {
+      "uuid": "ff2ccb0b3394f12c96584008fb4559e0",
+      "title": "PCB_LucidVRSensorPCB",
+      "filename": "PCB_LucidVRSensorPCB.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f463792f6cfb40af85192bf7acad186f": 5,
+        "1a05ef0c01af4a9d884f434a6353110b": 9,
+        "6204f163733e402cb56f1ed76313196c": 2
+      },
+      "BOM": [],
+      "updateTime": 1672710061,
+      "createTime": 1672392835,
+      "histories": [],
+      "created_at": "2022-12-30 10:33:55",
+      "updated_at": "2023-01-03 02:41:01"
+    }
+  ],
+  "sort": [
+    "5053223f75759e12d99c04c3215dc271",
+    "1f731c796540d0ca30968d65c817185c"
+  ],
+  "title": "LucidVRSensorPCB Side",
+  "foldername": "LucidVRSensorPCB Side",
+  "schfilename": "LucidVRSensorPCB Side.json",
+  "schfilemtime": 1672704585224
+}
